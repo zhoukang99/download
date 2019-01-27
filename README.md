@@ -6,7 +6,7 @@
 DownloadTask task = new DownloadTask.Builder()
                 .setUrl(url)
                 .setLocalPath(path)
-	            .setPriority(1)
+	        .setPriority(1)
                 .setDonwloadListener(listener)
                 .build();
 ```
