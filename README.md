@@ -42,6 +42,3 @@ boolean cancel(boolean mayInterruptIfRunning)
 
 ![](https://i.imgur.com/QUujPND.gif)
 
-#### 5. 联系方式 ###  
-微信：  
-![](https://i.imgur.com/1wmotfT.jpg)
